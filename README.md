@@ -55,3 +55,8 @@ void prime(int N)
 ![image](https://user-images.githubusercontent.com/106920559/172060868-7fef5b28-bfc5-4321-9c0b-4eec4b02de99.png)
 ### Вариант №3
 ![image](https://user-images.githubusercontent.com/106920559/172060887-916c904b-830b-4753-8500-394d02b04f75.png)
+## Выпуски
+### Версия 1.1
++ Добавлены поля ввода и вывода чисел
++ Добавлена кнопка "Рассчитать" 
++ Добавлен алгоритм расчёта числа Фибоначчи 
