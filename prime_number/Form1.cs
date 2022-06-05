@@ -72,6 +72,11 @@ namespace prime_number
             }
 
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
         

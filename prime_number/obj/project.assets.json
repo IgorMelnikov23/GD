@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HallCat\\Desktop\\prime_number\\prime_number\\prime_number.csproj",
+      "projectUniqueName": "C:\\Users\\HallCat\\Desktop\\prime_number\\GD\\prime_number\\prime_number.csproj",
       "projectName": "prime_number",
-      "projectPath": "C:\\Users\\HallCat\\Desktop\\prime_number\\prime_number\\prime_number.csproj",
+      "projectPath": "C:\\Users\\HallCat\\Desktop\\prime_number\\GD\\prime_number\\prime_number.csproj",
       "packagesPath": "C:\\Users\\HallCat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HallCat\\Desktop\\prime_number\\prime_number\\obj\\",
+      "outputPath": "C:\\Users\\HallCat\\Desktop\\prime_number\\GD\\prime_number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
