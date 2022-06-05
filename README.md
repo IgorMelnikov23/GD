@@ -49,4 +49,5 @@ void prime(int N)
         
 ```
 ## Изображение формы
-![Форма](https://imgur.com/a/FSSNlQg)
+![image](https://user-images.githubusercontent.com/106920559/172060749-3f3bdd89-47fb-4676-b60c-16d254c80408.png)
+
