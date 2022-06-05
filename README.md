@@ -50,3 +50,5 @@ void prime(int N)
 ```
 ## Изображение формы
 ![image](https://user-images.githubusercontent.com/106920559/172060749-3f3bdd89-47fb-4676-b60c-16d254c80408.png)
+![image](https://user-images.githubusercontent.com/106920559/172060868-7fef5b28-bfc5-4321-9c0b-4eec4b02de99.png)
+![image](https://user-images.githubusercontent.com/106920559/172060887-916c904b-830b-4753-8500-394d02b04f75.png)
