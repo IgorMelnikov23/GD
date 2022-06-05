@@ -49,4 +49,4 @@ void prime(int N)
         
 ```
 ## Изображение формы
-![Форма](https://imgur.com/va8oHWc)
+![Форма](https://imgur.com/a/FSSNlQg)
